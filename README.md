@@ -6,35 +6,11 @@
 
 I have been passionate about chess since I was 5 years old. My journey through competitive chess has been incredible, with achievements spanning from 2022 to 2026 across national and regional tournaments.
 
-## 🔗 Connect With Me
-
-- **LinkedIn:** [Ephesians Prismaranatha](https://www.linkedin.com/in/ephesians-prismaranatha-0b922625b/)
-- **Instagram:** [@_epatha](https://www.instagram.com/_epatha/)
-- **Chess.com:** [My Profile](https://www.chess.com)
-
----
-
-## 🏆 Achievements & Credentials
-
-### FIDE Rating
-![FIDE Rating](assets/fide.png)
-
-### Chess.com Profile
-![Chess.com Account](assets/chesscom.png)
-
-### Online Chess Performance
-![Chess.com Graphics](assets/grafik.png)
-
-### Search Profile
-![Google Search Result](assets/search.png)
-
----
-
 ## 🎖️ Tournament Achievements (2022-2026)
 
 | # | Tournament Name | Level | Date | Result |
 |---|---|---|---|---|
-| 1 | [Turnamen Catur Non Master - Kluban Bothok Cup II]((https://s3.chess-results.com/tnr1341926.aspx?lan=26&SNode=S0)) | National | 30 Jan 2026 | 🥉 |
+| 1 | [Turnamen Catur Non Master - Kluban Bothok Cup II](https://s3.chess-results.com/tnr1341926.aspx?lan=26&SNode=S0) | National | 30 Jan 2026 | 🥉 |
 | 2 | [Turnamen Catur Grand Opening - Pucung Chess Club 1](https://s1.chess-results.com/tnr1332969.aspx?lan=1&art=0&turdet=YES&SNode=S0) | National | 18 Jan 2026 | 🥇 |
 | 3 | [Nara Kupu Chess Competition (Umum)](https://s1.chess-results.com/tnr1333389.aspx?lan=11&SNode=S0) | National | 17 Jan 2026 | 🥉 |
 | 4 | [Pondok Gajah Chess Valentine 2026 Cup Open](https://chess-results.com/tnr1352992.aspx?lan=26) | National | 15 Feb 2026 | 🥇 |
@@ -79,6 +55,22 @@ I have been passionate about chess since I was 5 years old. My journey through c
 | 43 | [ITS Chess Tournament 2022 - Kategori Beregu](http://chess-results.com/tnr676374.aspx?lan=26) | National | 17-18 Sept 2022 | 🥈 |
 | 44 | [Turnamen Catur Piala PCNU Jakarta Barat](https://s1.chess-results.com/tnr667218.aspx?lan=26&art=1&rd=8&SNode=S0) | National | 21 Aug 2022 | 🥇 |
 | 45 | [Open Mandiraja Non Master 2022](https://s3.chess-results.com/tnr665218.aspx?lan=26&art=1&rd=7&SNode=S0) | National | 14 Aug 2022 | 🥉 |
+
+---
+
+## 🏆 Achievements & Credentials
+
+### FIDE Rating
+![FIDE Rating](assets/fide.png)
+
+### Chess.com Profile
+![Chess.com Account](assets/chesscom.png)
+
+### Online Chess Performance
+![Chess.com Graphics](assets/grafik.png)
+
+### Search Profile
+![Google Search Result](assets/search.png)
 
 ---
 

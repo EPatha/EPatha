@@ -34,7 +34,7 @@ I have been passionate about chess since I was 5 years old. My journey through c
 
 | # | Tournament Name | Level | Date | Result |
 |---|---|---|---|---|
-| 1 | [Turnamen Catur Non Master - Kluban Bothok Cup II](https://share.google/YthbficooF) | National | 30 Jan 2026 | 🥉 |
+| 1 | [Turnamen Catur Non Master - Kluban Bothok Cup II]((https://s3.chess-results.com/tnr1341926.aspx?lan=26&SNode=S0)) | National | 30 Jan 2026 | 🥉 |
 | 2 | [Turnamen Catur Grand Opening - Pucung Chess Club 1](https://s1.chess-results.com/tnr1332969.aspx?lan=1&art=0&turdet=YES&SNode=S0) | National | 18 Jan 2026 | 🥇 |
 | 3 | [Nara Kupu Chess Competition (Umum)](https://s1.chess-results.com/tnr1333389.aspx?lan=11&SNode=S0) | National | 17 Jan 2026 | 🥉 |
 | 4 | [Pondok Gajah Chess Valentine 2026 Cup Open](https://chess-results.com/tnr1352992.aspx?lan=26) | National | 15 Feb 2026 | 🥇 |

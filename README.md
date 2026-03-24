@@ -1,5 +1,3 @@
-# 👋 Ephesians Prismaranatha
-
 ## 🎖️ Tournament Achievements (2022-2026)
 want to check the tournament, click the tournament name to redirect in web chessresult.com
 

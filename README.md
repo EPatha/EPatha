@@ -1,11 +1,5 @@
 # 👋 Ephesians Prismaranatha
 
-**Chess Competitor | Master of Tournaments | Passionate Player Since Age 5**
-
-## 🎯 About Me
-
-I have been passionate about chess since I was 5 years old. My journey through competitive chess has been incredible, with achievements spanning from 2022 to 2026 across national and regional tournaments.
-
 ## 🎖️ Tournament Achievements (2022-2026)
 want to check the tournament, click the tournament name to redirect in web chessresult.com
 
@@ -74,26 +68,3 @@ want to check the tournament, click the tournament name to redirect in web chess
 ![Google Search Result](assets/search.png)
 
 ---
-
-## 📊 Tournament Statistics
-
-- **Total Tournaments:** 45
-- **Gold Medals (Juara I):** 22
-- **Silver Medals (Juara II):** 12
-- **Bronze Medals (Juara III):** 11
-- **National Level Tournaments:** Majority
-- **Competitive Period:** 2022-2026
-
----
-
-## 💪 Skills & Expertise
-
-- Strategic Chess Planning
-- Tournament Competition
-- Team Chess Events
-- Rapid & Blitz Formats
-- Classical Chess
-
----
-
-*Last Updated: 2026*

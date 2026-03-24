@@ -6,7 +6,7 @@
 
 I have been passionate about chess since I was 5 years old. My journey through competitive chess has been incredible, with achievements spanning from 2022 to 2026 across national and regional tournaments.
 
-## 🎖️ Tournament Achievements (2022-2026)
+## 🎖️ Tournament Achievements (2022-2026) a
 
 | # | Tournament Name | Level | Date | Result |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ I have been passionate about chess since I was 5 years old. My journey through c
 ### FIDE Rating
 ![FIDE Rating](assets/fide.png)
 
-### Chess.com Profile
+### Chess.com Profile (Changed every month because didnt want to get revealed)
 ![Chess.com Account](assets/chesscom.png)
 
 ### Online Chess Performance

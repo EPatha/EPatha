@@ -6,7 +6,8 @@
 
 I have been passionate about chess since I was 5 years old. My journey through competitive chess has been incredible, with achievements spanning from 2022 to 2026 across national and regional tournaments.
 
-## 🎖️ Tournament Achievements (2022-2026) a
+## 🎖️ Tournament Achievements (2022-2026)
+want to check the tournament, click the tournament name to redirect in web chessresult.com
 
 | # | Tournament Name | Level | Date | Result |
 |---|---|---|---|---|

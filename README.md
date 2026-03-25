@@ -1,5 +1,10 @@
+"🏆 45+ tournaments | Multiple 🥇 | ♟️ 2700+ rating online
+
+Click →
+Detailed page with table + links
 ## 🎖️ Tournament Achievements (2022-2026)
-want to check the tournament, click the tournament name to redirect in web chessresult.com
+
+**Click any tournament name to view my detailed results on chess-results.com**
 
 | # | Tournament Name | Level | Date | Result |
 |---|---|---|---|---|
@@ -56,7 +61,7 @@ want to check the tournament, click the tournament name to redirect in web chess
 ### FIDE Rating
 ![FIDE Rating](assets/fide.png)
 
-### Chess.com Profile (Changed every month because didnt want to get revealed)
+### Chess.com Profile
 ![Chess.com Account](assets/chesscom.png)
 
 ### Online Chess Performance
